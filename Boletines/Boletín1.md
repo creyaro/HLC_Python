@@ -2,16 +2,16 @@
 
 
 ### **Ejercicio 1**
-Escribe un programa que solicite al usuario su nombre y lo salude con un mensaje personalizado.
+Escribe un programa que solicite al usuario su nombre y lo salude.
 
 ```python
 # Ejemplo:
 # Entrada del usuario: Ana
-# Salida: Hola, Ana. ¡Bienvenido a Python!
+# Salida: Hola, Ana.
 ```
 
 ### **Ejercicio 2**
-Crea un programa que pida al usuario dos números y calcule su suma. Muestra el resultado con un mensaje claro.
+Crea un programa que pida al usuario dos números y calcule su suma. Muestra el resultado por pantalla.
 
 ```python
 # Ejemplo:
@@ -19,7 +19,6 @@ Crea un programa que pida al usuario dos números y calcule su suma. Muestra el 
 # Salida: La suma de 5 y 7 es 12.
 ```
 
----
 
 ### **Ejercicio 3**
 Haz un programa que convierta grados Celsius a Fahrenheit. Usa la fórmula: `F = C * 9/5 + 32`. Pide al usuario la temperatura en grados Celsius y muestra el resultado en Fahrenheit.
@@ -59,13 +58,10 @@ Escribe un programa que pida al usuario dos números y determine cuál es mayor.
 
 
 ### **Ejercicio 7**
-Crea una función que reciba dos números y devuelva su suma. Usa esta función en un programa que pida al usuario dos números y muestre el resultado.
+Crea una función que reciba dos números y devuelva su suma. Usa esta función en un programa que pida al usuario dos números y muestre el resultado. Es decir, hay que tener **dos funciones** donde en una se llama a la otra.
 
 ```python
 # Ejemplo:
-def sumar(a, b):
-    return a + b
-
 # Entrada del usuario: 3 y 7
 # Salida: La suma de 3 y 7 es 10.
 ```

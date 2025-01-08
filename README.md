@@ -91,7 +91,7 @@ nombre = input("¿Cómo te llamas? ")
 print("Hola,", nombre, "¡Bienvenido a Python!")
 ```
 
-**Ejercicio:**
+**Ejemplo:**
 1. Solicitar al usuario su edad.
 2. Calcular cuántos años tendrá en 5 años.
 
@@ -130,7 +130,7 @@ saludar("Pedro")
 saludar("Ana")
 ```
 
-**Ejercicio:**
+**Ejemplo:**
 Crear una función que reciba un número y devuelva su cuadrado:
 
 ```python
@@ -142,15 +142,3 @@ def cuadrado(numero):
 resultado = cuadrado(4)
 print("El cuadrado de 4 es:", resultado)
 ```
-
----
-
-## **Conclusión**
-En esta introducción se han abordado:
-- El uso de `print()` para mostrar mensajes.
-- La definición y manejo de variables.
-- La recepción de datos del usuario con `input()`.
-- La utilización de condicionales (`if`/`else`).
-- La creación de funciones básicas.
-
-Con estos conceptos, es posible empezar a desarrollar programas simples en Python. 🐍
