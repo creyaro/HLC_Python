@@ -63,7 +63,7 @@ Escribe un programa que pida al usuario una palabra y verifique si contiene algu
 
 
 ### **Ejercicio 7**
-Crea un programa que genere los primeros 10 números de la serie de Fibonacci y los imprima en una lista.
+Crea un programa que genere los primeros 10 números de la serie de Fibonacci y los imprima.
 
 ```python
 # Ejemplo:
