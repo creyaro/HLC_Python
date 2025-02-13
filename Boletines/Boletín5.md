@@ -39,7 +39,7 @@ print(t.presentarse())
 ```
 
 ### **Ejercicio 4: Encapsulamiento - Clase "CuentaBancaria"**
-Crea una clase `CuentaBancaria` con un atributo privado `saldo`. Implementa métodos para consultar el saldo (`ver_saldo()`), depositar (`depositar(monto)`) y retirar (`retirar(monto)`) con validaciones.
+Crea una clase `CuentaBancaria` con un atributo `saldo`. Implementa métodos para consultar el saldo (`ver_saldo()`), depositar (`depositar(monto)`) y retirar (`retirar(monto)`) con validaciones.
 
 ```python
 # Ejemplo de uso:
@@ -53,7 +53,7 @@ print(cuenta.ver_saldo())
 ```
 
 ### **Ejercicio 5: Abstracción - Clase "Figura"**
-Crea una clase abstracta `Figura` con un método `calcular_area()`. Luego, crea las clases `Circulo` y `Rectangulo` que implementen este método.
+Crea una clase `Figura` con un método `calcular_area()` vacío (``pass``). Luego, crea las clases `Circulo` y `Rectangulo` que implementen este método.
 
 ```python
 # Ejemplo de uso:
