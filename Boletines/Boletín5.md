@@ -39,7 +39,7 @@ print(t.presentarse())
 ```
 
 ### **Ejercicio 4: Encapsulamiento - Clase "CuentaBancaria"**
-Crea una clase `CuentaBancaria` con un atributo privado `saldo`. Implementa métodos para consultar el saldo (`ver_saldo()`), depositar (`depositar(monto)`) y retirar (`retirar(monto)`) con validaciones.
+Crea una clase `CuentaBancaria` con un atributo `saldo`. Implementa métodos para consultar el saldo (`ver_saldo()`), depositar (`depositar(monto)`) y retirar (`retirar(monto)`) con validaciones.
 
 ```python
 # Ejemplo de uso:
